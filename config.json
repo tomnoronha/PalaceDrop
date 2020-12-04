@@ -1,0 +1,19 @@
+{
+  "shipping_info": {
+    "first_name": "Jon",
+    "last_name": "Doe",
+    "address1": "",
+    "address2": "",
+    "city": "London",
+    "zip": "",
+    "country": "United Kingdom",
+    "phone": "(xxx) xxx-xxxx",
+    "email": ""
+  },
+  "card_info": {
+    "number": "xxxx xxxx xxxx xxxx",
+    "exp_month": "x",
+    "exp_year": "x",
+    "cvv": "xxx"
+  }
+}
